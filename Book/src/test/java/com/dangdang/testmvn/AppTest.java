@@ -35,4 +35,10 @@ public class AppTest
     {
         assertTrue( true );
     }
+
+    public void testApp_false()
+    {
+        assertTrue( false );
+    }
+	
 }
